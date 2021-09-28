@@ -1,1 +1,2 @@
-# solucion-de-sudokus-con-ANN-en-python
+# Solución de Sudokus con ANN en Python
+Este fue el proyecto de la asignatura Inteligencia Artificial en el periodo 2020-3 de la carrera de Ingeniería Electrónica en la Pontificia Universidad Javeriana de Bogotá D.C., Colombia. En este proyecto se busca explorar la solución de Sudokus por medio de redes neuronales artificiales, para lo cual se plantean dos modelos de perceptrón multicapa que reciben el planteamiento de un Sudoku tradicional y devuelven su solución. Se muestra su proceso de desarrollo, construcción y los resultados.
